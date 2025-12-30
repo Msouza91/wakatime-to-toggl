@@ -7,6 +7,7 @@
 
 Automatically import your [WakaTime](https://wakatime.com/) data into [Toggl](https://toggl.com/)
 
+activity commit
 - Works with free accounts
 - Can be automated with GitHub Actions
 
